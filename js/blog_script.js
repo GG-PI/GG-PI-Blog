@@ -60,7 +60,7 @@ document.getElementById("back").addEventListener("click", function() {
 	
 	var section = document.getElementById("home");
 	
-	SmoothScrollUp(0);
+	SmoothScrollUp(section);
 	
 });
 
